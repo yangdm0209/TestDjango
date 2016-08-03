@@ -29,7 +29,7 @@ python manage.py runserver
 
 
 ## 小技巧
-#### 到出静态文件
+#### 导出静态文件
 `setting.py`添加`STATIC_ROOT = "D:\\web"`
 ```python
 # 导出静态文件到STATIC_ROOT
